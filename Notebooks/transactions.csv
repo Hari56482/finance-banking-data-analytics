@@ -1,0 +1,11 @@
+transaction_id,customer_id,txn_date,description,category,amount,txn_type,payment_method
+1,101,2024-01-02,AMZN Purchase,Shopping,1200.50,debit,Card
+2,101,2024-01-03,Salary Credit,Salary,45000.00,credit,NetBanking
+3,101,2024-01-06,KFC Food,Food,550.00,debit,UPI
+4,101,2024-02-01,Salary Credit,Salary,45000.00,credit,NetBanking
+5,101,2024-02-04,Electricity Bill,Utilities,1900.50,debit,NetBanking
+6,101,2024-02-06,Myntra Clothes,Shopping,2150.00,debit,Card
+7,101,2024-03-01,Salary Credit,Salary,45000.00,credit,NetBanking
+8,101,2024-03-08,Dominos Pizza,Food,650.00,debit,UPI
+9,101,2024-03-09,Rent Payment,Rent,12000.00,debit,NetBanking
+10,101,2024-03-12,Petrol Fuel,Fuel,2000.00,debit,Card
